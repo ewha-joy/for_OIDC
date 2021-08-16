@@ -10,6 +10,8 @@
 ### 코드 git clone
 - <a href = https://github.com/ewha-joy> ewha-joy code </a>
 
+![image](https://user-images.githubusercontent.com/37402084/129603345-e0d00ead-c01a-4ca2-a61a-ed8565d59378.png)
+
 
 
 
