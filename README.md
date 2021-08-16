@@ -101,12 +101,12 @@
 
 ### 서버사이드 주소
 
-- <a href = https://115.85.183.11:30000/ >아코디언 </a>
-- <a href =  http://49.50.173.118:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))&_a=(columns:!(),filters:!(),index:cf61f730-fd7f-11eb-a784-f185264fd9b4,interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc))) > 로그 모니터링</a>
-- <a href = http://49.50.173.118:5601/app/dashboards#/view/15297bd0-fd85-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))  >로그 시각화 </a>
-- <a href = http://49.50.173.118:9411/zipkin/?lookback=7d&endTs=1628991349983&limit=10 >로그 분산추적 </a>
-- <a href = http://49.50.173.118:5601/app/dashboards#/view/7da31f10-f53b-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-7d%2Fd,to:now)) >로그 분산추적 시각화 </a>
-- <a href = http://49.50.175.33:9021/clusters/OSV17sK-RG2YtxRL0wdE9A/management/topics?topic_dir=DESC&topic_sort=status >Kafka </a>
-- <a href = http://101.101.218.57:15672/#/ >rabbit MQ </a>
+- <a href = https://115.85.183.11:30000/> 아코디언 </a>
+- <a href =  http://49.50.173.118:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))&_a=(columns:!(),filters:!(),index:cf61f730-fd7f-11eb-a784-f185264fd9b4,interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))> 로그 모니터링</a>
+- <a href = http://49.50.173.118:5601/app/dashboards#/view/15297bd0-fd85-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now)) > 로그 시각화 </a>
+- <a href = http://49.50.173.118:9411/zipkin/?lookback=7d&endTs=1628991349983&limit=10 > 로그 분산추적 </a>
+- <a href = http://49.50.173.118:5601/app/dashboards#/view/7da31f10-f53b-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-7d%2Fd,to:now))> 로그 분산추적 시각화 </a>
+- <a href = http://49.50.175.33:9021/clusters/OSV17sK-RG2YtxRL0wdE9A/management/topics?topic_dir=DESC&topic_sort=status> Kafka </a>
+- <a href = http://101.101.218.57:15672/#/ > rabbit MQ </a>
 
 
