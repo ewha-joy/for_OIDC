@@ -1,4 +1,4 @@
-# Install_excute_forOIDC
+# Install_excute_for OIDC
 
 ### 실행환경
 - java -version : java version "11.0.11" 2021-04-20 LTS
