@@ -95,4 +95,19 @@
 - 작가권한 : author_joy1886 / joyjoy1886*
 - 유저권한 : joy_user_1886 / joyjoy1886*
 
+- 거래소 작가 : 비밀키 0xbf8ac4bd0a24639bc6314db127bf69f50010bf3e0e1ab065b16a9ab390601e2c
+- 거래소 유저 : 비밀키 0xb8603ca69d7a3fe771b289142ca306574a8f1667b8108597af227750ca050a68
+
+
+### 서버사이드 주소
+
+- 아코디언 : https://115.85.183.11:30000/
+- 로그 모니터링 : http://49.50.173.118:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))&_a=(columns:!(),filters:!(),index:cf61f730-fd7f-11eb-a784-f185264fd9b4,interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
+- 로그 시각화 : http://49.50.173.118:5601/app/dashboards#/view/15297bd0-fd85-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h%2Fh,to:now))
+- 로그 분산추적 : http://49.50.173.118:9411/zipkin/?lookback=7d&endTs=1628991349983&limit=10
+- 로그 분산추적 시각화 : http://49.50.173.118:5601/app/dashboards#/view/7da31f10-f53b-11eb-a784-f185264fd9b4?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-7d%2Fd,to:now))
+- Kafka : http://49.50.175.33:9021/clusters/OSV17sK-RG2YtxRL0wdE9A/management/topics?topic_dir=DESC&topic_sort=status
+- rabbit MQ : http://101.101.218.57:15672/#/
+- 
+
 
