@@ -16,7 +16,7 @@
 - cd remote_frontend
 - npm install
 - npm start
-- localhost:3002 접속
+- localhost:3000 접속
 - 아래의 아이디 와 비밀번호를 통해 해당 서비스 이용가능
 
 
