@@ -1,6 +1,7 @@
 # Install_excute_for OIDC
 
 # <a href = "http://27.96.131.221:3000/" >조이툰 이동 </a>
+- 아래의 아이디 와 비밀번호를 통해 해당 서비스 이용가능
 
 ### 실행환경
 - java -version : java version "11.0.11" 2021-04-20 LTS
