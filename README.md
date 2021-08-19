@@ -1,4 +1,4 @@
-# Install_excute_for OIDC
+# Install_excute_ for OIDC
 
 # <a href = "http://27.96.131.221:3000/" >조이툰 이동 </a>
 - 아래의 아이디 와 비밀번호를 통해 해당 서비스 이용가능
