@@ -97,6 +97,7 @@
 
 
 ### ID & PW
+- 📌현재 서버막아 놓음
 - 작가권한 : author_joy1886 / joyjoy1886*
 - 유저권한 : joy_user_1886 / joyjoy1886*
 
